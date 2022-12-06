@@ -20,7 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritikkagarwalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikkagarwalll" height="30" width="40" /></a>
+<a href="https://twitter.com/ritikkagarwalll" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76695769/205816889-9a9466a0-d153-4803-8ff2-89c3b5b41aa3.jpg" alt="ritikkagarwalll" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritik-agarwal-bb0934182/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76695769/205817694-474caaf0-a785-428f-8ced-c6f1ed9ec82c.gif" alt="" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-agarwal50&show_icons=true&locale=en&layout=compact" alt="ritik-agarwal50" /></p>
