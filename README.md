@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Agarwal</h1>
 <h3 align="center">A passionate Smart Contract developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76695769/205813157-4c1bff91-0b31-403a-b64b-21cab8e89805.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76695769/205813157-4c1bff91-0b31-403a-b64b-21cab8e89805.gif"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-agarwal50&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-agarwal50" /> </p>
