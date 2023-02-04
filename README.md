@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **GraphQl , Auditng Contracts.**
 
+- 🛠 Currently Building something cool shit.
+
 - 💬 Ask me about **Blochchain,Ethereum , Solidity**
 
 - 📫 How to reach me **ritikagarwal570@gmail.com**
