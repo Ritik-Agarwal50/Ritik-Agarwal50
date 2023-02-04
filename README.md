@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-agarwal50&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-agarwal50" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik-agarwal50" alt="ritik-agarwal50" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ritikkagarwalll" target="blank"><img src="https://img.shields.io/twitter/follow/ritikkagarwalll?logo=twitter&style=for-the-badge" alt="ritikkagarwalll" /></a> </p>
 
