@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/ritikkagarwalll" target="blank"><img src="https://img.shields.io/twitter/follow/ritikkagarwalll?logo=twitter&style=for-the-badge" alt="ritikkagarwalll" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQl , Auditng Contracts.**
+- 🌱 I’m currently learning **Go, Advance Concepts of Solidity.**
 
 - 🛠 Currently Building something cool shit.
 
-- 💬 Ask me about **Blochchain,Ethereum , Solidity**
+- 💬 Ask me about **Blockchain,Ethereum , Solidity**
 
 - 📫 How to reach me **ritikagarwal570@gmail.com**
 
