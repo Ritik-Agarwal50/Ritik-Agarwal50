@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Agarwal</h1>
-<h3 align="center">A passionate Smart Contract developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/76695769/205815558-c60edb51-b174-42aa-86e8-d37cd3aad7a7.gif"></img>
 
