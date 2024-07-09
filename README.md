@@ -14,7 +14,7 @@
 
 - 🛠 Currently Building something cool shit.
 
-- 💬 Ask me about **Blockchain,Ethereum , Solidity**
+- 💬 Ask me about **Blockchain, Ethereum, Solidity , AWS,**
 
 - 📫 How to reach me **ritikagarwal570@gmail.com**
 
