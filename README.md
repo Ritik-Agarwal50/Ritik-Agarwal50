@@ -37,7 +37,7 @@ More of my security research can be found [here](https://github.com/Ritik-Agarwa
 | Project                       | Description                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------ |
 | [Shim](https://github.com/shim-sec/shim) | Security tooling built in Go for protecting package-manager workflows. |
-| [Zero Divided by Knowledge](https://ritik-agarwal50.github.io/SamBlogs/) | Notes and articles on ZK, cryptography and mathematics. || **Intro to ZK Math**          | My notes/work while learning the mathematical foundations behind ZK systems.               |
+| [Zero Divided by Knowledge](https://ritik-agarwal50.github.io/) | Notes and articles on ZK, cryptography and mathematics. || **Intro to ZK Math**          | My notes/work while learning the mathematical foundations behind ZK systems.               |
 | [DevOpsified](https://github.com/Ritik-Agarwal50/DevOpsified) | Hands-on exploration of Docker, Kubernetes, Helm, AWS EKS and CI/CD. |
 | [Terraform Templates](https://github.com/Ritik-Agarwal50/Terraform_Templates) | Terraform templates and infrastructure experiments. |
 | [Audit Report Downloader](https://github.com/Ritik-Agarwal50/Audit-Report-Downloader-V1) | Python tool for automatically tracking and downloading smart-contract security audit reports. |
@@ -46,11 +46,11 @@ More of my security research can be found [here](https://github.com/Ritik-Agarwa
 ## Articles
 
 * [The Missing Link: How `Circuits`Connect P vs. NP to Zero Knowledge
-](https://ritik-agarwal50.github.io/SamBlogs/2025/11/02/second-post.html)
+](https://ritik-agarwal50.github.io/2025/11/02/second-post.html)
 * [Is Genius a Bug? Cracking the Code of P vs NP
-](https://ritik-agarwal50.github.io/SamBlogs/2025/10/31/first-post.html)
+](https://ritik-agarwal50.github.io/2025/10/31/first-post.html)
 * [Timber Merkle Tree: Structure, Optimization, and Verification
-](https://medium.com/@samm21/timber-merkle-tree-structure-optimization-and-verification-7877dc032ab3)
+](https://ritik-agarwal50.github.io/2026/09/04/timber-merkle-tree.html)
 
 
 ## Currently learning
@@ -58,4 +58,4 @@ Zk · Cryptography
 
 ---
 
-[Website](https://ritik-agarwal50.github.io/SamBlogs/) · [X](https://x.com/RitikkAgarwalll) · [LinkedIn](https://www.linkedin.com/in/ritik-agarwal07/)
+[Website](https://ritik-agarwal50.github.io/) · [X](https://x.com/RitikkAgarwalll) · [LinkedIn](https://www.linkedin.com/in/ritik-agarwal07/)
