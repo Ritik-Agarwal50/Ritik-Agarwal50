@@ -52,7 +52,7 @@ More of my security research can be found [here](https://github.com/Ritik-Agarwa
 
 
 ## Currently learning
-ZK, Cryptography
+Zk · Cryptography
 
 ---
 
