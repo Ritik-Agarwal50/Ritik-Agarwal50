@@ -25,6 +25,11 @@ More of my security research can be found [here](https://github.com/Ritik-Agarwa
 | **Limit Break AMM** | Guardian  | 2025            | —                |
 | **Mighty Finance**  | Cantina   |  2025      | 117 / 629        |
 
+
+## Private Audit
+| Project             | Project review type  | Date            | Result           |
+| ------------------- | ---------------------| --------------- | ---------------- |
+| Private             |  Infra - Cosmos EVM  |  2026        |  --              |
 ## Learnings & Side-projects
 
 | Project                       | Description                                                                                |
