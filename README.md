@@ -43,8 +43,6 @@ More of my security research can be found [here](https://github.com/Ritik-Agarwa
 
 ## Articles
 
-### Zero Divided by Knowledge
-
 * [The Missing Link: How `Circuits`Connect P vs. NP to Zero Knowledge
 ](https://ritik-agarwal50.github.io/SamBlogs/2025/11/02/second-post.html)
 * [Is Genius a Bug? Cracking the Code of P vs NP
