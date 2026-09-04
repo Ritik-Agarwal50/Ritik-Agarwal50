@@ -2,6 +2,8 @@
 
 Hey! Ritik here!
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/76695769/205815558-c60edb51-b174-42aa-86e8-d37cd3aad7a7.gif"></img>
+
 I'm a Security Researcher 
 
 Solidity, Go sometimes Python: I find bugs in any language mostly :)
